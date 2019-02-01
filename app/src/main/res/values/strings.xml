@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">P2PWiFiDiscover</string>
+    <string name="wifi">WiFi</string>
+    <string name="discover">Discover</string>
+    <string name="button">Button</string>
+    <string name="enter_the_message">Enter the Message</string>
+</resources>
